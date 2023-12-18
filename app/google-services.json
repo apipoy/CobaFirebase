@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "569608227763",
+    "project_id": "optix-capstoneproject",
+    "storage_bucket": "optix-capstoneproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569608227763:android:c53375d4b07968a2d799c6",
+        "android_client_info": {
+          "package_name": "com.afif.cobafirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5xRcmbPXT28wbSlOtnwc6gBGVmkU1grw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569608227763:android:33c1b18f042777a4d799c6",
+        "android_client_info": {
+          "package_name": "com.afif.optix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5xRcmbPXT28wbSlOtnwc6gBGVmkU1grw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
